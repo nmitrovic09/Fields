@@ -6,28 +6,24 @@ As the user creates his own fields, he is able to understand how the physical wo
 
 ### GETTING STARTED
 
-```
 - Download [Processing](https://processing.org/download/)
 - Download **FIELDS** repository and unzip the file
 - Open the **_main.pde_** sketch within the repository
 - Play the sketch
-```
 
 ### INSTRUCTIONS
 
-- [ ] Press 'SPACE' to **Start**
-- [ ] 'Z KEY' for **Attraction**
-- [ ] 'X KEY' for **Repulsion**
-- [ ] 'Q W E  A S D KEYS' for **Spinning**
-- [ ] 'C KEY' for **Reset**
-- [ ] 'F KEY' for **Save** frame as an image
-- [  'V KEY' for **Hiding Navigation Bar**
+- [ ] Press `SPACE` to **Start**
+- [ ] `Z KEY` for **Attraction**
+- [ ] `X KEY` for **Repulsion**
+- [ ] `Q W E  A S D KEYS` for **Spinning**
+- [ ] `C KEY` for **Reset**
+- [ ] `F KEY` for **Save** frame as an image
+- [ ] `V KEY` for **Hiding Navigation Bar**
 
 ### PLATFORM
 
-```
 [Processing](https://processing.org/download/)
-```
 
 ### PUBLISHED
 
