@@ -7,10 +7,12 @@ As the user creates his own fields, he is able to understand how the physical wo
 ## GETTING STARTED
 
 '''
+
 - Download [Processing](https://processing.org/download/)
 - Download **FIELDS** repository and unzip the file
 - Open the **_main.pde_** sketch within the repository
 - Play the sketch
+
 '''
 
 ## INSTRUCTIONS
