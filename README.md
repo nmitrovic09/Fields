@@ -14,13 +14,13 @@ Fields is an interactive creation of magnetic fields that lets the user experien
 
 ### INSTRUCTIONS
 
-Press `SPACE` to **Start**
-`Z` key for **Attraction**
-`X` key for **Repulsion**
-`Q W E  A S D` keys for **Spinning**
-`C` key for **Reset**
-`F` key for **Save** frame as an image
-`V` key for **Hiding Navigation Bar**
+- [ ] Press `SPACE` to **Start**
+- [ ] `Z` key for **Attraction**
+- [ ] `X` key for **Repulsion**
+- [ ] `Q W E  A S D` keys for **Spinning**
+- [ ] `C` key for **Reset**
+- [ ] `F` key for **Save** frame as an image
+- [ ] `V` key for **Hiding Navigation Bar**
 
 ### PLATFORM
 
