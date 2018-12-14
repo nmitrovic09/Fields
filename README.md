@@ -30,15 +30,15 @@ Made in [Processing](https://processing.org/download/)
 
 ### FOLLOW UP
 
-The next iteration of this project will be created with [TouchDesigner](https://www.derivative.ca/099/Downloads/).
+The next iteration of this project will be created with Javascript
 
-- [ ] Rapid prototyping
-- [ ] Flexible interface with more expansion on generative visuals
+- [ ] Accessibility for the web
+- [ ] Expansion on user interaction
 - [ ] Push beyond the limitations of 2D graphics
-- [ ] Add 3D rendering to the interactive visualization
+- [ ] Add 3D rendering
 
 ### PUBLISHED
 
 ```
-by Nikola Mitrovic in 2017
+by Nikola Mitrovic in 2016
 ```
